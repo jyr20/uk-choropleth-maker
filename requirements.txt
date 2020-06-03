@@ -1,5 +1,4 @@
 pandas
-urllib
 plotly
 numpy
 json
